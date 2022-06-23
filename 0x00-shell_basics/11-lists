@@ -1,2 +1,2 @@
-#!/bin/bash -i
-lm
+#!/bin/bash
+/root/lms/lm
