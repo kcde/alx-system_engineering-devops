@@ -1,2 +1,2 @@
-#!/bin/bash
-./6-first-directory
+#!/bin/bash -i
+lm
