@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R *.js | xargs rm
+ls -R **/*md | xargs rm
